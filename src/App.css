@@ -1,0 +1,14 @@
+body{
+  margin:2% 2% 0% 2%;
+  
+}
+
+.MuiAppBar-colorDefault{
+color:red;
+}
+
+.movie-btn{
+width:50px;
+height:40px;
+margin:5px;
+}

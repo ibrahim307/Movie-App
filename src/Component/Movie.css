@@ -1,0 +1,91 @@
+.container-form{
+    display:flex; 
+    justify-content: center;
+    margin-top:30px  
+}
+.container-note{
+    display:flex;
+    flex-direction:column;
+    padding-left:10px
+}
+.input-movie{
+    width: 270px;
+    height:40px;
+    border-radius: 10PX 10PX 10PX 10PX;
+}
+.search-button{
+    height:85%
+}
+.movieContainer{
+    display:flex;  
+    flex-wrap:wrap; 
+    margin:20px 30px;
+}
+
+.movieCard{
+    display:flex;
+    flex-direction: column;
+    margin:10px;
+    border: solid;
+    border-radius: 20px;
+    height: 70%;
+}
+.add-movies{
+    margin:20px 30px;
+    height: 80%;
+    width:300px;
+    
+}
+.movie-poster{
+    margin-top:1%;;
+    width: 300px;
+    height: 77%;
+    
+}
+.movie-title{
+    margin-top:10px;
+    padding:10px 30px ;
+   
+}
+.container-button{
+    display: flex;
+    justify-content: space-evenly;
+    border-radius: 5px;
+
+}
+.description-button{
+    margin:0px 0px 19px 60px;
+    border-radius: 6px;
+}
+.delete-button{
+    width:20%;
+    border-radius: 6px;
+}
+.edit-button{
+    width:20%;
+}
+.btn{
+    margin-left:30px
+}
+.modal-body{
+    display:flex;
+    flex-direction:column;
+    justify-content: space-between;
+}
+.input-title{
+    width:43%
+}
+.input-date{
+   
+    width:43%
+}
+.input-image{
+    width:43%
+}
+
+
+.movie-btn{
+    width:50px;
+    height:40px;
+    margin:5px;
+    }
